@@ -1,12 +1,12 @@
 ﻿using System;
-using Dawn.WingStateSave;
+using Dawn.WingStateSaver;
 using MelonLoader;
 
 [assembly: MelonColor(ConsoleColor.DarkCyan)]
 [assembly: MelonGame("VRChat", "VRChat")]
 [assembly: MelonInfo(typeof(Start), "WingMenuStateSaver", "1.0.0", "arion#1223")]
 
-namespace Dawn.WingStateSave
+namespace Dawn.WingStateSaver
 {
     using System.Linq;
     using System.Runtime.CompilerServices;

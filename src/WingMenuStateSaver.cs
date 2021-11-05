@@ -1,4 +1,4 @@
-﻿namespace Dawn.WingStateSave
+﻿namespace Dawn.WingStateSaver
 {
     using System;
     using System.Collections;
